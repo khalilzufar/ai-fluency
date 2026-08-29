@@ -3,7 +3,7 @@
 This folder contains the AI Fluency work built around a measured machine-learning case study.
 The public showcase is deployed at:
 
-<https://khalilzufar.github.io/build-with-evidence/>
+<https://khalilzufar.github.io/ai-fluency-portfolio/>
 
 ## What is included
 

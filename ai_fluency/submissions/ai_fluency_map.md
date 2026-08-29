@@ -2,9 +2,9 @@
 
 Public evidence links:
 
-- Portfolio: <https://khalilzufar.github.io/build-with-evidence/>
-- Blank-page milestone: <https://khalilzufar.github.io/build-with-evidence/blank/>
-- Repository: <https://github.com/khalilzufar/build-with-evidence>
+- Portfolio: <https://khalilzufar.github.io/ai-fluency-portfolio/>
+- Blank-page milestone: <https://khalilzufar.github.io/ai-fluency-portfolio/blank/>
+- Repository: <https://github.com/khalilzufar/ai-fluency-portfolio>
 - ML paper: <https://khalilzufar.github.io/FlyRank-ML/>
 
 | Portal item | Evidence in this repo |

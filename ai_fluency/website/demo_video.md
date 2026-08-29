@@ -4,4 +4,4 @@
 
 Public URL after the GitHub Pages build:
 
-<https://khalilzufar.github.io/build-with-evidence/demo.mp4>
+<https://khalilzufar.github.io/ai-fluency-portfolio/demo.mp4>
