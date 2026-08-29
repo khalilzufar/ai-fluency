@@ -2,7 +2,7 @@
 
 | Work block | Estimate | Evidence |
 |---|---:|---|
-| portfolio direction and copy | 1.5h | `BUILD_NOTES.md`, `docs/ai/index.html` |
+| project direction and copy | 1.5h | `BUILD_NOTES.md`, `index.html` |
 | interactive case explorer | 1.5h | `docs/ai/index.html` inline script |
 | agent design and implementation | 2.5h | `agent/` |
 | workflow and MCP explainer | 1.5h | `workflows/`, `mcp/` |

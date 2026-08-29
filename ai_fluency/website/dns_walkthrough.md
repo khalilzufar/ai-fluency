@@ -10,6 +10,6 @@ DNS is the directory that lets a human-friendly name resolve to the host serving
 A `CNAME` is useful for a subdomain such as `www.example.com` because it points that name at the host's canonical hostname. It is not the same thing as a redirect and it cannot normally be used at the root/apex of every DNS provider. The provider then verifies the record before issuing or attaching a TLS certificate.
 
 This project currently uses the accepted free GitHub Pages URL:
-`https://khalilzufar.github.io/ai-fluency-portfolio/`.
+`https://khalilzufar.github.io/ai-fluency/`.
 
 No custom domain was purchased or configured. If a custom domain is added later, the provider's DNS instructions must be followed exactly and verified with `dig`, the provider dashboard, and an HTTPS request.

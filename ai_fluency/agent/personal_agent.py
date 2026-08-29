@@ -1,4 +1,4 @@
-"""A small, safe, tool-calling personal portfolio agent.
+"""A small, safe, tool-calling personal project agent.
 
 It intentionally uses only the Python standard library so a reviewer can run it
 from a fresh clone. The optional HTTP tool reads a public page and never writes
@@ -75,7 +75,7 @@ def fetch_public_page(url: str) -> dict[str, Any]:
     """Read one public page; this tool has no write capability."""
     if not re.fullmatch(r"https?://[^\s]+", url):
         return {"url": url, "status": "blocked", "reason": "Only public HTTP(S) URLs are allowed."}
-    request = Request(url, headers={"User-Agent": "FlyRank-portfolio-agent/1.0"})
+    request = Request(url, headers={"User-Agent": "ai-fluency-agent/1.0"})
     try:
         with urlopen(request, timeout=10) as response:
             body = response.read(200_000)
@@ -127,7 +127,7 @@ def run_agent(query: str, site_url: str | None = None) -> dict[str, Any]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Run the public-safe FlyRank portfolio agent")
+    parser = argparse.ArgumentParser(description="Run the public-safe AI Fluency project agent")
     parser.add_argument("--query", required=True)
     parser.add_argument("--site-url")
     parser.add_argument("--json", action="store_true", dest="as_json")

@@ -2,7 +2,7 @@
 
 ## Next named piece
 
-**Future case: time-aware content refresh ranking.** Re-run the current case on a future window, compare the grouped and time-aware splits, and publish the result as a second evidence ribbon on the portfolio.
+**Future case: time-aware content refresh ranking.** Re-run the current case on a future window, compare the grouped and time-aware splits, and publish the result as a second evidence ribbon on the project page.
 
 ## How to add the next case
 

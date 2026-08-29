@@ -3,7 +3,7 @@
 ## Five-minute demo outline
 
 1. Start with the editorial question: which pages deserve review first?
-2. Open the portfolio and show the evidence ribbon.
+2. Open the project page and show the evidence ribbon.
 3. Use the case explorer to filter for “refresh”.
 4. Open the ML paper and explain the grouped holdout result versus baseline.
 5. Run the personal agent and show its three read-only tool calls.

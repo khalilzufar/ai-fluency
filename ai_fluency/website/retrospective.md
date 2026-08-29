@@ -8,7 +8,7 @@
 
 ## What changed during build
 
-- The design shifted from a generic portfolio grid to a research-notebook layout with an evidence ribbon.
+- The design shifted from a generic project grid to a research-notebook layout with an evidence ribbon.
 - The agent was reduced to three read-only tools so its behavior stays explainable.
 - External analytics and other optional distribution steps were kept explicit instead of being implied.
 

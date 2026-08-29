@@ -2,9 +2,9 @@
 
 Public evidence links:
 
-- Portfolio: <https://khalilzufar.github.io/ai-fluency-portfolio/>
-- Blank-page milestone: <https://khalilzufar.github.io/ai-fluency-portfolio/blank/>
-- Repository: <https://github.com/khalilzufar/ai-fluency-portfolio>
+- Project page: <https://khalilzufar.github.io/ai-fluency/>
+- Blank-page milestone: <https://khalilzufar.github.io/ai-fluency/blank/>
+- Repository: <https://github.com/khalilzufar/ai-fluency>
 - ML paper: <https://khalilzufar.github.io/FlyRank-ML/>
 
 | Portal item | Evidence in this repo |
@@ -13,7 +13,7 @@ Public evidence links:
 | Choose Your Stack | `website/BUILD_NOTES.md` and this map |
 | Automation Workflow v2 | `workflows/automation_workflow.md` |
 | Agent Concepts and MCP Basics | `mcp/agent_concepts.md` + `agent/run_capture.md` |
-| Explain It Like You Built It | `agent/AGENT_DESIGN.md` and portfolio agent code |
+| Explain It Like You Built It | `agent/AGENT_DESIGN.md` and project agent code |
 | Design Your Personal Agent | `agent/AGENT_DESIGN.md` |
 | Build the Agent | `agent/personal_agent.py` + `agent/run_capture.md` |
 | Personal Website | `index.html` + `website/dns_walkthrough.md` |
@@ -22,9 +22,9 @@ Public evidence links:
 | Survive the Crit | `website/survive_the_crit.md` (AI-assisted pre-review; human review still recommended) |
 | Break Your Own Site | `website/break_test.md` |
 | Plant Your Flag | free GitHub Pages URL + `website/analytics_boundary.md`; custom domain and external analytics remain optional follow-up work |
-| Show It / Tell the Story | `website/retrospective.md` and portfolio page; external post/video still require an owner-controlled destination |
+| Show It / Tell the Story | `website/retrospective.md` and project page; external post/video still require an owner-controlled destination |
 | Plan to Keep Building | `website/next_case_plan.md` |
-| Documentation and Demo Video | `website/documentation.md` and portfolio page; video link remains a publishable follow-up artifact |
+| Documentation and Demo Video | `website/documentation.md` and project page; video link remains a publishable follow-up artifact |
 
 ## Honest submission note
 

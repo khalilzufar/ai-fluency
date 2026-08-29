@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Turn a completed research artifact into a reviewable portfolio update without losing the evidence or overstating the claim.
+Turn a completed research artifact into a reviewable project update without losing the evidence or overstating the claim.
 
 ## Step diagram
 

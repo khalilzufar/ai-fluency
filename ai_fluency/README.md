@@ -1,9 +1,9 @@
-# AI Fluency portfolio package
+# AI Fluency project package
 
 This folder contains the AI Fluency work built around a measured machine-learning case study.
 The public showcase is deployed at:
 
-<https://khalilzufar.github.io/ai-fluency-portfolio/>
+<https://khalilzufar.github.io/ai-fluency/>
 
 ## What is included
 
@@ -24,4 +24,4 @@ python ai_fluency/agent/personal_agent.py --query "What should I improve next?"
 python ai_fluency/agent/personal_agent.py --query "Check the public paper" --site-url https://khalilzufar.github.io/FlyRank-ML/
 ```
 
-The portfolio itself is static and can be served from the repository root with any static server. GitHub Pages publishes `docs/` from `main`.
+The project page is static and can be served from the repository root with any static server. GitHub Pages publishes the repository root from `main`.

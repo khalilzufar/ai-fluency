@@ -9,7 +9,7 @@
 | stops when the recipe ends | loops through tools, then grounds a response |
 | easiest to audit | needs stronger tool and permission boundaries |
 
-The portfolio agent is intentionally bounded: it has three read-only tools, one public-safe case registry, and no ability to publish or mutate external state.
+The project agent is intentionally bounded: it has three read-only tools, one public-safe case registry, and no ability to publish or mutate external state.
 
 ## What MCP adds
 

@@ -1,6 +1,6 @@
-# AI Fluency Portfolio
+# AI Fluency
 
-Portfolio project tentang membangun workflow AI yang berguna, dapat dijelaskan, dan memiliki batas yang jelas. Website ini menggabungkan satu case machine learning berbasis evidence, personal agent read-only, automation workflow, serta catatan QA yang dapat direproduksi.
+Project tentang membangun workflow AI yang berguna, dapat dijelaskan, dan memiliki batas yang jelas. Website ini menggabungkan satu case machine learning berbasis evidence, personal agent read-only, automation workflow, serta catatan QA yang dapat direproduksi.
 
 ## Why this project is relevant
 
@@ -16,8 +16,8 @@ Project ini menunjukkan kemampuan untuk:
 ## Project structure
 
 ```text
-ai-fluency-portfolio/
-|-- index.html                 # Public portfolio and interactive case explorer
+ai-fluency/
+|-- index.html                 # Public project page and interactive case explorer
 |-- demo.mp4                   # Caption-led project walkthrough
 |-- favicon.svg                # Site icon
 |-- blank/                     # Near-blank page milestone
@@ -32,7 +32,7 @@ ai-fluency-portfolio/
 
 ## Live site
 
-<https://khalilzufar.github.io/ai-fluency-portfolio/>
+<https://khalilzufar.github.io/ai-fluency/>
 
 The measured ML case and source notebooks remain in the [FlyRank-ML repository](https://github.com/khalilzufar/FlyRank-ML).
 
@@ -56,5 +56,5 @@ The site contains no private warehouse export, client identity, credential, toke
 
 ## CV-ready project description
 
-**AI Fluency Portfolio**
-Built a public portfolio demonstrating evidence-based AI workflows through an interactive case explorer, a bounded read-only personal agent, an automation workflow, responsive website QA, and caption-led documentation. Designed the system to keep evidence, limitations, and human review visible throughout the build.
+**AI Fluency**
+Built a public project demonstrating evidence-based AI workflows through an interactive case explorer, a bounded read-only personal agent, an automation workflow, responsive website QA, and caption-led documentation. Designed the system to keep evidence, limitations, and human review visible throughout the build.

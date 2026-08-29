@@ -2,7 +2,7 @@
 
 ## Job to be done
 
-Help Khalil decide what to improve next in a public portfolio case study, using only the repository's public-safe case metadata and an optional live check of a public page.
+Help Khalil decide what to improve next in a public project case study, using only the repository's public-safe case metadata and an optional live check of a public page.
 
 ## User input
 
