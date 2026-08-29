@@ -16,7 +16,7 @@
 [three proof blocks]
 [interactive case explorer + agent preview]
 [workflow + QA notes]
-[footer with badge status]
+[footer with public build status]
 ```
 
 The page avoids stock dashboard styling: the layout reads like a research notebook with a movable evidence ribbon, strong typographic thesis, and quiet controls.

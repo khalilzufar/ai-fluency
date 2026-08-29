@@ -1,9 +1,9 @@
 # AI Fluency portfolio package
 
-This folder contains the AI Fluency work built around the FlyRank ML case study.
+This folder contains the AI Fluency work built around a measured machine-learning case study.
 The public showcase is deployed at:
 
-<https://khalilzufar.github.io/FlyRank-ML/ai/>
+<https://khalilzufar.github.io/build-with-evidence/>
 
 ## What is included
 
@@ -15,7 +15,7 @@ The public showcase is deployed at:
 
 ## Public-safe boundary
 
-The site uses only public project information and the public GitHub/Paper links. It does not expose email, client names, private queries, domains, credentials, or raw warehouse exports. The optional analytics instrumentation is first-party and local-only; no third-party analytics account or tracking identifier is claimed. The official FlyRank graduate badge is shown as pending because badge issuance is controlled by capstone review.
+The site uses only public project information and public repository links. It does not expose email, client names, private queries, domains, credentials, or raw warehouse exports. The optional analytics instrumentation is first-party and local-only; no third-party analytics account or tracking identifier is claimed.
 
 ## Run locally
 

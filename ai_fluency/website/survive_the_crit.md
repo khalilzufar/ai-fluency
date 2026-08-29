@@ -7,7 +7,7 @@ This is an AI-assisted pre-review, clearly labeled so it is not mistaken for ext
 1. The strongest part is the clear thesis and evidence ribbon; it makes the project feel like a case study instead of a link dump.
 2. The biggest risk is that the agent preview could be mistaken for a production assistant; the boundary copy must stay visible.
 3. Visitors may want a direct “read the paper” action before scrolling; the primary CTA now does that.
-4. The badge cannot be presented as official before FlyRank issues it; the footer now says “pending review.”
+4. Public-status language should describe the build itself and avoid implying external endorsements.
 
 ## Must-fix / nice-to-have
 

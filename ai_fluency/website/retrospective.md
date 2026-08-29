@@ -10,8 +10,8 @@
 
 - The design shifted from a generic portfolio grid to a research-notebook layout with an evidence ribbon.
 - The agent was reduced to three read-only tools so its behavior stays explainable.
-- External analytics and the official badge were made explicit pending items instead of being implied.
+- External analytics and other optional distribution steps were kept explicit instead of being implied.
 
 ## Next iteration
 
-Collect independent human critique, add a real privacy-reviewed analytics property if needed, and attach the official FlyRank badge after capstone review.
+Collect independent human critique, add a real privacy-reviewed analytics property if needed, and publish a follow-up case when there is a new decision worth documenting.
